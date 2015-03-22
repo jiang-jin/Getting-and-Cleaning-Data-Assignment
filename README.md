@@ -13,7 +13,7 @@ Create one R script called run_analysis.R in Github that does the following. <br
 2.5 Creates a second, independent tidy data set with the average of each variable for each activity and each subject.<br />
 
 3. Steps to work on this course project <br />
-3.1 Download the data source and put into a folder on your local drive. You'll have a UCI HAR Dataset folder.  <br />
+3.1 Download the data source and put into a folder on your local drive. You'll have a UCI HAR Dataset folder. For Mac user, you can use "~/Desktop/WorkDirectory/UCI HAR Dataset" as route. <br />
 3.2 Put run_analysis.R in the parent folder of UCI HAR Dataset, then set it as your working directory using setwd() function in RStudio.  <br />
 3.3 Run source("run_analysis.R"), then it will generate a new file tiny_data.txt in your working directory.  <br />
 
